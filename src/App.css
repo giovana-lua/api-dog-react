@@ -25,6 +25,8 @@
   will-change: filter;
   transition: filter 300ms;
 }
+
+
 input {
   background-color: white;
   border-radius: 8px;
