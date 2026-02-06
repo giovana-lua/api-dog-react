@@ -78,7 +78,7 @@ Abra seu terminal e digite:
 
 `npm create vite@latest meu-projeto-react` 
 
-![](attachment:7e7faeab-6f18-49dd-b258-7eda8c6dcea8:Captura_de_tela_2026-01-30_150416.png)
+![Captura de tela 2026-01-30 150416.png](attachment:7e7faeab-6f18-49dd-b258-7eda8c6dcea8:Captura_de_tela_2026-01-30_150416.png)
 
 ### Passo 2: Acessar a pasta e instalar dependências
 
